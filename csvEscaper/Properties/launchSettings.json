@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csvEscaper": {
+      "commandName": "Project",
+      "commandLineArgs": "sampleInput.csv"
+    }
+  }
+}
